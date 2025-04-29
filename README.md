@@ -24,15 +24,15 @@ Then follow the instructions for each setup:
 
 - **Vim Configuration:**  
   Go to `vim-config/` and run the setup script to install Vundle and configure Vim.  
-  - See [vim-config/README.md](vim-config/README.md) for details.
+  - See [vim-config/README.md](https://github.com/JohnH0820/dotfiles/blob/main/vim-config/README.md) for details.
 
 - **Bash Customization:**  
   Go to `homefiles/` and run the setup script to install bash aliases.  
-  - See [homefiles/README.md](homefiles/README.md) for details.
+  - See [homefiles/README.md](https://github.com/JohnH0820/dotfiles/blob/main/homefiles/README.md) for details.
 
 - **AWS CLI Installation:**  
   Use the `awscli-install/` script to install AWS CLI with apt and dependency checks.  
-  - See [awscli-install/README.md](awscli-install/README.md) for details.
+  - See [awscli-install/README.md](https://github.com/JohnH0820/dotfiles/blob/main/vim-config/README.md) for details.
 
 ## Desired Improvements
 - Automate running all setup scripts from a single `setup.sh` at the root level
