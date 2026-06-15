@@ -2,9 +2,9 @@
 
 ## Disclaimer
 
-- These are my originals from my time in CEG-2410 at Wright State University. They do not work properly and need to be updated which is why they are being moved to this directory. 
+- These are my originals from my time in *NONDESCRIPT COURSE FROM MY COLLEGE*. They do not work properly and need to be updated which is why they are being moved to this directory. 
 
-- Thank you Professor Kayleigh Duncan for teaching me how to do all of this and for being one of the best professors at Wright State!
+- Thank you *MY FAVORITE PROFESSOR AT MY COLLEGE* for teaching me how to do all of this and for being one of the best professors at Wright State!
 
 # College README Original
 
